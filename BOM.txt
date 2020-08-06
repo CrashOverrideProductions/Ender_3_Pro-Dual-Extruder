@@ -8,7 +8,7 @@ Extruder Drive Feed Frame                   2       $14.95     $29.90     https:
 
 ~ 4 Standoffs 
 ~ 3d Printed Fan Shroud
-~ New Cooling Fans 2 Part + 1 Heat Block
+~ New Cooling Fans 2 Part + 1 Heat Block 40x40
 ~ T-Nuts
 ~ Screws for Hot End
 ~ Other stuff
