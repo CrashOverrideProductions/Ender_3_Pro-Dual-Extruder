@@ -1,0 +1,13 @@
+Bill of Materials for Dual Extruder Upgrade
+
+Item                                       Qty       Unit$     Total$     Link
+Assembled Extruder Hot End Kit              2       $19.99     $39.98     https://www.creality3dofficial.com/collections/6-for-ender-3-3-pro-5/products/assembled-extruder
+Nema 17 Stepper Motor                       1       $22.99     $22.99     https://www.creality3dofficial.com/collections/accessories/products/creality-motor-34-for-ender-3
+Nema 17 90 Degree Mounts                    2       $03.50     $03.50     https://www.makerstore.com.au/product/plate-motor-n17-ra/
+Extruder Drive Feed Frame                   2       $14.95     $29.90     https://www.ebay.com.au/itm/Aluminum-MK8-Extruder-Drive-Feed-Frame-For-3D-Printer-Ender-CR-10S-Left-Hand-AUS/274119254669?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649
+
+~ 4 Standoffs 
+~ 3d Printed Fan Shroud
+~ New Cooling Fans 2 Part + 1 Heat Block
+
+Gantry Plate - Custom Design in CAD folder
