@@ -11,3 +11,5 @@
     E-Plate.pdf                  -  Ender 3 Factory Extruder Plate Diagram    -  https://github.com/Creality3DPrinting/Ender-3
     Radiator.pdf                 -  Ender 3 Hotend Heatsink Diagram           -  https://github.com/Creality3DPrinting/Ender-3
     20mm_gantry_plate_10.jpg     -  MakerStore Gantry Plate                   -  http://www.makerstore.com.au
+    Fan Cover.pdf                -  Ender 3 Factory Fan Cover Diagram         -  https://github.com/Creality3DPrinting/Ender-3
+    Nozzle fan duct.pdf          -  Ender 3 Factory Nozzle Fan Duct Diagram   -  https://github.com/Creality3DPrinting/Ender-3
