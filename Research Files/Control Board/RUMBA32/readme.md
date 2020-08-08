@@ -1,7 +1,7 @@
 # Rumba32
-#### Copied from [Aus3D GitHub Repository](https://github.com/Aus3D/RUMBA32)
-### Current Plan is to Modifiy this design into a Drop In replacement Ender 3 Pro Control Board with Multi Extruder Support + Silent Steppers and of course a 32-Bit MCU
-======
+##### Copied from [Aus3D GitHub Repository](https://github.com/Aus3D/RUMBA32)
+##### Current Plan is to Modifiy this design into a Drop In replacement Ender 3 Pro Control Board with Multi Extruder Support + Silent Steppers and of course a 32-Bit MCU
+---
 
 
 # RUMBA32
