@@ -8,7 +8,11 @@
 </p>
 
 <!-- Repo Stats -->
-<img align="center" src="https://img.shields.io/github/commit-activity/m/CrashOverrideProductions/FDSLoader"> <img align="center" src="https://img.shields.io/github/last-commit/CrashOverrideProductions/FDSLoader"> <img align="center" src="https://img.shields.io/github/languages/code-size/CrashOverrideProductions/FDSLoader"> <img align="center" src="https://img.shields.io/github/directory-file-count/CrashOverrideProductions/FDSLoader">
+<img align="center" src="https://img.shields.io/github/commit-activity/m/CrashOverrideProductions/
+Ender_3_Pro-Dual-Extruder"> <img align="center" src="https://img.shields.io/github/last-commit/CrashOverrideProductions/
+Ender_3_Pro-Dual-Extruder"> <img align="center" src="https://img.shields.io/github/languages/code-size/CrashOverrideProductions/
+Ender_3_Pro-Dual-Extruder"> <img align="center" src="https://img.shields.io/github/directory-file-count/CrashOverrideProductions/
+Ender_3_Pro-Dual-Extruder">
 
 <!-- Repo Intro -->
 ### Details
